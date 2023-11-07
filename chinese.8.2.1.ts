@@ -134,7 +134,7 @@ Please refer to the Activity Wizard help files for more detailed information.</s
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="4197" />
         <source>Strings</source>
-        <translation type="unfinished">弦乐</translation>
+        <translation type="unfinished">字符串</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="5268" />
@@ -4004,7 +4004,7 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</sou
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="169" />
         <source>&amp;Welcome</source>
-        <translation type="unfinished">＆欢迎</translation>
+        <translation type="unfinished">欢迎</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="172" />
@@ -4014,7 +4014,7 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</sou
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="203" />
         <source>&amp;Variable Manager</source>
-        <translation type="unfinished">变量管理器(&amp;amp;V)</translation>
+        <translation type="unfinished">变量管理器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="206" />
@@ -4024,27 +4024,27 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</sou
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="234" />
         <source>&amp;Instructions</source>
-        <translation type="unfinished">＆指示</translation>
+        <translation type="unfinished">指示</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="237" />
         <source>Alt+I</source>
-        <translation type="unfinished">阿尔特+我</translation>
+        <translation type="unfinished">Alt+I</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="265" />
         <source>&amp;Answer Network</source>
-        <translation type="unfinished">解答网(&amp;amp;A)</translation>
+        <translation type="unfinished">解答网</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="268" />
         <source>Alt+A</source>
-        <translation type="unfinished">阿尔特+A</translation>
+        <translation type="unfinished">Alt+A</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="296" />
         <source>&amp;Scripting</source>
-        <translation type="unfinished">脚本(&amp;amp;S)</translation>
+        <translation type="unfinished">脚本</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="299" />
@@ -4054,7 +4054,7 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</sou
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="327" />
         <source>I&amp;nitial Network</source>
-        <translation type="unfinished">初始网络(&amp;amp;N)</translation>
+        <translation type="unfinished">初始网络</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="330" />
@@ -4064,7 +4064,7 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</sou
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="361" />
         <source>&amp;Password</source>
-        <translation type="unfinished">＆密码</translation>
+        <translation type="unfinished">密码</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="364" />
@@ -4074,7 +4074,7 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</sou
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="395" />
         <source>&amp;Test Activity</source>
-        <translation type="unfinished">测试活动(&amp;amp;T)</translation>
+        <translation type="unfinished">测试活动</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="398" />
@@ -4089,7 +4089,7 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</sou
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="426" />
         <source>&amp;Check Activity</source>
-        <translation type="unfinished">检查活动(&amp;amp;C)</translation>
+        <translation type="unfinished">检查活动</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="429" />
@@ -4559,7 +4559,7 @@ Contact: miwang@cisco.com</source>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseCableViewPopWidget.ui" line="150" />
         <source>SrcDevice &gt; SrcPort</source>
-        <translation type="unfinished">源设备 &amp;gt; 源端口</translation>
+        <translation type="unfinished">源设备 》 源端口</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseCableViewPopWidget.ui" line="236" />
@@ -4907,7 +4907,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="304" />
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="528" />
         <source>Auto</source>
-        <translation type="unfinished">汽车</translation>
+        <translation type="unfinished">自动</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="362" />
@@ -9533,7 +9533,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12990" />
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="13707" />
         <source>Parity</source>
-        <translation type="unfinished">平价</translation>
+        <translation type="unfinished">奇偶校验位</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3985" />
@@ -15313,7 +15313,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="733" />
         <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="781" />
         <source>Auto</source>
-        <translation type="unfinished">汽车</translation>
+        <translation type="unfinished">自动</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="634" />
@@ -23420,7 +23420,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2169" />
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2172" />
         <source>Auto</source>
-        <translation type="unfinished">汽车</translation>
+        <translation type="unfinished">自动</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="543" />
@@ -24295,7 +24295,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="599" />
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="634" />
         <source>Auto</source>
-        <translation type="unfinished">汽车</translation>
+        <translation type="unfinished">自动</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="481" />
@@ -24454,7 +24454,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettingsHomeRouter.ui" line="1239" />
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettingsHomeRouter.ui" line="1274" />
         <source>Auto</source>
-        <translation type="unfinished">汽车</translation>
+        <translation type="unfinished">自动</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettingsHomeRouter.ui" line="512" />
@@ -33636,7 +33636,7 @@ Please try to use a different port.</source>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="1740" />
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="1741" />
         <source>Auto</source>
-        <translation type="unfinished">汽车</translation>
+        <translation type="unfinished">自动</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="1378" />
@@ -33972,7 +33972,7 @@ Please try to use a different port.</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessConnectionInfo.cpp" line="194" />
         <source>Auto</source>
-        <translation type="unfinished">汽车</translation>
+        <translation type="unfinished">自动</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessConnectionInfo.cpp" line="196" />
@@ -34221,7 +34221,7 @@ Please try to use a different port.</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStats.cpp" line="154" />
         <source>Auto</source>
-        <translation type="unfinished">汽车</translation>
+        <translation type="unfinished">自动</translation>
     </message>
 </context>
 <context>
@@ -34378,7 +34378,7 @@ Please try to use a different port.</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="203" />
         <source>Auto</source>
-        <translation type="unfinished">汽车</translation>
+        <translation type="unfinished">自动</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="205" />
@@ -34587,7 +34587,7 @@ Please try to use a different port.</source>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessProfiles.cpp" line="208" />
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessProfiles.cpp" line="224" />
         <source>Auto</source>
-        <translation type="unfinished">汽车</translation>
+        <translation type="unfinished">自动</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessProfiles.cpp" line="214" />
@@ -42192,7 +42192,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="579" />
         <source>Parity</source>
-        <translation type="unfinished">平价</translation>
+        <translation type="unfinished">奇偶校验位</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="580" />
@@ -50197,7 +50197,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="995" />
         <source>Auto Cost</source>
-        <translation type="unfinished">汽车成本</translation>
+        <translation type="unfinished">自动计算Cost</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1003" />
@@ -55797,7 +55797,7 @@ this network in the future. Scripts in question belong to a script module with I
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessNetworkStatus.cpp" line="129" />
         <source>Auto</source>
-        <translation type="unfinished">汽车</translation>
+        <translation type="unfinished">自动</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessNetworkStatus.cpp" line="135" />
@@ -55982,7 +55982,7 @@ this network in the future. Scripts in question belong to a script module with I
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="64" />
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="334" />
         <source>Auto</source>
-        <translation type="unfinished">汽车</translation>
+        <translation type="unfinished">自动</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="65" />
@@ -58084,7 +58084,7 @@ Flow information:
         <location filename="../gui/DesignerFiles/Workstation/WorkstationSshClientConfigurationBase.ui" line="195" />
         <location filename="../gui/DesignerFiles/Workstation/WorkstationSshClientConfigurationBase.ui" line="198" />
         <source>Parity:</source>
-        <translation type="unfinished">平价：</translation>
+        <translation type="unfinished">奇偶校验位：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationSshClientConfigurationBase.ui" line="201" />
@@ -58213,7 +58213,7 @@ Flow information:
         <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="198" />
         <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="201" />
         <source>Parity:</source>
-        <translation type="unfinished">平价：</translation>
+        <translation type="unfinished">奇偶校验位：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="214" />
@@ -58292,18 +58292,18 @@ Flow information:
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="352" />
         <source>Even</source>
-        <translation type="unfinished">甚至</translation>
+        <translation type="unfinished">奇</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="357" />
         <source>Odd</source>
-        <translation type="unfinished">奇怪的</translation>
+        <translation type="unfinished">偶</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="362" />
         <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="428" />
         <source>None</source>
-        <translation type="unfinished">没有任何</translation>
+        <translation type="unfinished">无</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="367" />
@@ -58333,7 +58333,7 @@ Flow information:
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="418" />
         <source>Xon/Xoff</source>
-        <translation type="unfinished">汗/霍夫</translation>
+        <translation type="unfinished">Xon/Xoff</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="423" />
@@ -58347,7 +58347,7 @@ Flow information:
         <location filename="../gui/DeviceConfig/Workstation/WorkstationTelnetSettings.cpp" line="55" />
         <location filename="../gui/DeviceConfig/Workstation/WorkstationTelnetSettings.cpp" line="131" />
         <source>Xon/Xoff</source>
-        <translation type="unfinished">汗/霍夫</translation>
+        <translation type="unfinished">Xon/Xoff</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationTelnetSettings.cpp" line="59" />
@@ -58361,19 +58361,19 @@ Flow information:
         <location filename="../gui/DeviceConfig/Workstation/WorkstationTelnetSettings.cpp" line="139" />
         <location filename="../gui/DeviceConfig/Workstation/WorkstationTelnetSettings.cpp" line="152" />
         <source>None</source>
-        <translation type="unfinished">没有任何</translation>
+        <translation type="unfinished">无</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationTelnetSettings.cpp" line="67" />
         <location filename="../gui/DeviceConfig/Workstation/WorkstationTelnetSettings.cpp" line="144" />
         <source>Even</source>
-        <translation type="unfinished">甚至</translation>
+        <translation type="unfinished">奇</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationTelnetSettings.cpp" line="71" />
         <location filename="../gui/DeviceConfig/Workstation/WorkstationTelnetSettings.cpp" line="148" />
         <source>Odd</source>
-        <translation type="unfinished">奇怪的</translation>
+        <translation type="unfinished">偶</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationTelnetSettings.cpp" line="79" />
@@ -59643,27 +59643,27 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="322" />
         <source>&amp;Bold</source>
-        <translation type="unfinished">＆大胆的</translation>
+        <translation type="unfinished">黑体</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="334" />
         <source>&amp;Italic</source>
-        <translation type="unfinished">斜体(&amp;amp;I)</translation>
+        <translation type="unfinished">斜体</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="346" />
         <source>&amp;Underline</source>
-        <translation type="unfinished">＆强调</translation>
+        <translation type="unfinished">下划线</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="358" />
         <source>&amp;Strikethrough</source>
-        <translation type="unfinished">删除线(&amp;amp;S)</translation>
+        <translation type="unfinished">删除线</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="367" />
         <source>Align &amp;Left</source>
-        <translation type="unfinished">左对齐(&amp;amp;L)</translation>
+        <translation type="unfinished">左对齐</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="376" />
@@ -59673,7 +59673,7 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="385" />
         <source>Align &amp;Right</source>
-        <translation type="unfinished">对齐(&amp;amp;R)</translation>
+        <translation type="unfinished">对齐</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="394" />
@@ -59688,7 +59688,7 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="412" />
         <source>&amp;Decrease Indent</source>
-        <translation type="unfinished">减少缩进(&amp;amp;D)</translation>
+        <translation type="unfinished">减少缩进</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="424" />
@@ -59698,12 +59698,12 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="436" />
         <source>&amp;Numbered List</source>
-        <translation type="unfinished">编号列表(&amp;amp;N)</translation>
+        <translation type="unfinished">编号列表</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="445" />
         <source>Insert &amp;Image...</source>
-        <translation type="unfinished">插入图像(&amp;amp;I)...</translation>
+        <translation type="unfinished">插入图像...</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="454" />
@@ -59733,7 +59733,7 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="485" />
         <source>&amp;Paragraph</source>
-        <translation type="unfinished">＆段落</translation>
+        <translation type="unfinished">段落</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="490" />
@@ -59768,17 +59768,17 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="520" />
         <source>Pre&amp;formatted</source>
-        <translation type="unfinished">预格式化(&amp;amp;F)</translation>
+        <translation type="unfinished">预格式化</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="525" />
         <source>&amp;Address</source>
-        <translation type="unfinished">＆地址</translation>
+        <translation type="unfinished">地址</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="530" />
         <source>&amp;Font Name...</source>
-        <translation type="unfinished">字体名称(&amp;amp;F)...</translation>
+        <translation type="unfinished">字体名称...</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="535" />
