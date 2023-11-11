@@ -38,7 +38,7 @@
         <location filename="../gui/DesignerFiles/APClientStatus.ui" line="26" />
         <location filename="../gui/DesignerFiles/APClientStatus.ui" line="31" />
         <source>Status</source>
-        <translation type="unfinished">地位</translation>
+        <translation type="unfinished">状态</translation>
     </message>
 </context>
 <context>
@@ -3426,7 +3426,7 @@ Comments: </source>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12552" />
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12555" />
         <source>Time Elapsed</source>
-        <translation type="unfinished">时间流逝</translation>
+        <translation type="unfinished">已用时间</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12576" />
@@ -3630,13 +3630,13 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</sou
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12829" />
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12832" />
         <source>Show Item Count</source>
-        <translation type="unfinished">显示商品数量</translation>
+        <translation type="unfinished">显示项目数量</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12849" />
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12852" />
         <source>Show Item Count Percentage</source>
-        <translation type="unfinished">显示项目计数百分比</translation>
+        <translation type="unfinished">显示项目数量百分比</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12865" />
@@ -5424,7 +5424,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1196" />
         <source>Status</source>
-        <translation type="unfinished">地位</translation>
+        <translation type="unfinished">状态</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1216" />
@@ -14445,7 +14445,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="821" />
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="824" />
         <source>Status:</source>
-        <translation type="unfinished">地位：</translation>
+        <translation type="unfinished">状态：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1028" />
@@ -16341,7 +16341,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/MainGUIComponents/BaseCheckAnswerPage.ui" line="236" />
         <location filename="../gui/DesignerFiles/MainGUIComponents/BaseCheckAnswerPage.ui" line="556" />
         <source>Status</source>
-        <translation type="unfinished">地位</translation>
+        <translation type="unfinished">状态</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/BaseCheckAnswerPage.ui" line="241" />
@@ -16395,7 +16395,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/MainGUIComponents/BaseCheckAnswerPage.ui" line="350" />
         <location filename="../gui/DesignerFiles/MainGUIComponents/BaseCheckAnswerPage.ui" line="353" />
         <source>Item Count</source>
-        <translation type="unfinished">商品数量</translation>
+        <translation type="unfinished">项目数量</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/BaseCheckAnswerPage.ui" line="387" />
@@ -16443,7 +16443,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/BaseCheckAnswerPage.ui" line="620" />
         <source>&amp;Close</source>
-        <translation type="unfinished">＆关闭</translation>
+        <translation type="unfinished">关闭</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/BaseCheckAnswerPage.ui" line="623" />
@@ -24936,7 +24936,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="534" />
         <source>Status</source>
-        <translation type="unfinished">地位</translation>
+        <translation type="unfinished">状态</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="544" />
@@ -25544,7 +25544,7 @@ This ExApp is mandatory and may not be removed or disabled.</source>
     <message>
         <location filename="../gui/activity/CheckAnswerPage.cpp" line="328" />
         <source>Component</source>
-        <translation type="unfinished">电子元件</translation>
+        <translation type="unfinished">组成</translation>
     </message>
     <message>
         <location filename="../gui/activity/CheckAnswerPage.cpp" line="328" />
@@ -25597,7 +25597,7 @@ This ExApp is mandatory and may not be removed or disabled.</source>
     <message>
         <location filename="../gui/activity/CheckAnswerPage.cpp" line="640" />
         <source>Time Elapsed: </source>
-        <translation type="unfinished">时间流逝：</translation>
+        <translation type="unfinished">已用时间：</translation>
     </message>
     <message>
         <location filename="../gui/activity/CheckAnswerPage.cpp" line="644" />
@@ -30765,7 +30765,7 @@ and all previous settings will be erased.</source>
     <message>
         <location filename="../gui/activity/InstructionDialog.cpp" line="393" />
         <source>PT Activity</source>
-        <translation type="unfinished">物理治疗活动</translation>
+        <translation type="unfinished">PT活动</translation>
     </message>
     <message>
         <location filename="../gui/activity/InstructionDialog.cpp" line="209" />
@@ -30786,14 +30786,14 @@ and all previous settings will be erased.</source>
         <location filename="../gui/activity/InstructionDialog.cpp" line="400" />
         <location filename="../gui/activity/InstructionDialog.cpp" line="527" />
         <source>Time Elapsed: </source>
-        <translation type="unfinished">时间流逝：</translation>
+        <translation type="unfinished">已用时间：</translation>
     </message>
     <message>
         <location filename="../gui/activity/InstructionDialog.cpp" line="401" />
         <location filename="../gui/activity/InstructionDialog.cpp" line="479" />
         <location filename="../gui/activity/InstructionDialog.cpp" line="495" />
         <source>PT Activity: </source>
-        <translation type="unfinished">物理治疗活动：</translation>
+        <translation type="unfinished">PT活动：</translation>
     </message>
     <message>
         <location filename="../gui/activity/InstructionDialog.cpp" line="431" />
@@ -39986,7 +39986,7 @@ Supported file extensions: .html .htm . php .css .js</source>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceIox.ui" line="31" />
         <source>Status</source>
-        <translation type="unfinished">地位</translation>
+        <translation type="unfinished">状态</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceIox.ui" line="41" />
@@ -41039,7 +41039,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/DesignerFiles/Tv/BaseTVPhysical.ui" line="39" />
         <source>Status</source>
-        <translation type="unfinished">地位</translation>
+        <translation type="unfinished">状态</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Tv/BaseTVPhysical.ui" line="45" />
@@ -57047,7 +57047,7 @@ End the expression with: ")</source>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="330" />
         <source>&amp;Dial</source>
-        <translation type="unfinished">＆拨号</translation>
+        <translation type="unfinished">拨号</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="324" />
@@ -57060,7 +57060,7 @@ End the expression with: ")</source>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="359" />
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="362" />
         <source>Status:</source>
-        <translation type="unfinished">地位：</translation>
+        <translation type="unfinished">状态：</translation>
     </message>
 </context>
 <context>
@@ -61524,7 +61524,7 @@ The typical sequence in creating a script module is as follows:</source>
     <message>
         <location filename="../gui/DesignerFiles/Tv/BaseTVDialog.ui" line="28" />
         <source>Status</source>
-        <translation type="unfinished">地位</translation>
+        <translation type="unfinished">状态</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Tv/BaseTVDialog.ui" line="34" />
@@ -61856,7 +61856,7 @@ The typical sequence in creating a script module is as follows:</source>
     <message>
         <location filename="../gui/DesignerFiles/WlcApGroups.ui" line="164" />
         <source>Status</source>
-        <translation type="unfinished">地位</translation>
+        <translation type="unfinished">状态</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcApGroups.ui" line="180" />
