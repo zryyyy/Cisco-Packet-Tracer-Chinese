@@ -60144,7 +60144,7 @@ Do you want to save your changes?</source>
         <location filename="../gui/DesignerFiles/PaletteDialogBase.ui" line="335" />
         <location filename="../gui/DesignerFiles/PaletteDialogBase.ui" line="338" />
         <source>Outline</source>
-        <translation type="unfinished">大纲</translation>
+        <translation type="unfinished">轮廓</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/PaletteDialogBase.ui" line="367" />
