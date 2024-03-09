@@ -7850,7 +7850,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2546" />
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2549" />
         <source>Apply</source>
-        <translation type="unfinished">申请</translation>
+        <translation type="unfinished">应用</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2571" />
@@ -9114,7 +9114,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3565" />
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3568" />
         <source>Apply Proxy</source>
-        <translation type="unfinished">申请代理</translation>
+        <translation type="unfinished">应用代理</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3575" />
@@ -21283,7 +21283,7 @@ Connection&lt;/b&gt;&lt;/p&gt;</source>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="904" />
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="907" />
         <source>Apply</source>
-        <translation type="unfinished">申请</translation>
+        <translation type="unfinished">应用</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="660" />
@@ -28247,12 +28247,12 @@ and all previous settings will be erased.</source>
         <location filename="../gui/DesignerFiles/Cloud/FrameRelaySettings.ui" line="115" />
         <location filename="../gui/DesignerFiles/Cloud/FrameRelaySettings.ui" line="120" />
         <source>LMI</source>
-        <translation type="unfinished">低分子指数</translation>
+        <translation type="unfinished">LMI本地管理接口</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Cloud/FrameRelaySettings.ui" line="142" />
         <source>ANSI</source>
-        <translation type="unfinished">美国国家标准学会</translation>
+        <translation type="unfinished">ANSI美国国家标准学会</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Cloud/FrameRelaySettings.ui" line="147" />
@@ -28288,7 +28288,7 @@ and all previous settings will be erased.</source>
         <location filename="../gui/DesignerFiles/Cloud/FrameRelaySettings.ui" line="361" />
         <location filename="../gui/DesignerFiles/Cloud/FrameRelaySettings.ui" line="363" />
         <source>Remove</source>
-        <translation type="unfinished">消除</translation>
+        <translation type="unfinished">移除</translation>
     </message>
 </context>
 <context>
@@ -28973,17 +28973,17 @@ and all previous settings will be erased.</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/IPCommunicatorAnsweredCallScreen.cpp" line="74" />
         <source>Send 'Do'</source>
-        <translation type="unfinished">发送“做”</translation>
+        <translation type="unfinished">发送“Do”</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/IPCommunicatorAnsweredCallScreen.cpp" line="75" />
         <source>Send 'Re'</source>
-        <translation type="unfinished">发送“回复”</translation>
+        <translation type="unfinished">发送“Re”</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/IPCommunicatorAnsweredCallScreen.cpp" line="76" />
         <source>Send 'Mi'</source>
-        <translation type="unfinished">发送“米”</translation>
+        <translation type="unfinished">发送“Mi”</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/IPCommunicatorAnsweredCallScreen.cpp" line="143" />
@@ -41994,7 +41994,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="451" />
         <source>ACL</source>
-        <translation type="unfinished">前交叉韧带</translation>
+        <translation type="unfinished">访问控制列表</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="452" />
