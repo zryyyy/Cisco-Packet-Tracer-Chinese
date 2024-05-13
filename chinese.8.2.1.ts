@@ -4475,7 +4475,7 @@ Contact: miwang@cisco.com</source>
         <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="733" />
         <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="736" />
         <source>Ok</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="743" />
@@ -5875,7 +5875,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/activity/BaseProficiencyModelPopup.ui" line="158" />
         <location filename="../gui/DesignerFiles/activity/BaseProficiencyModelPopup.ui" line="163" />
         <source>OK</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/activity/BaseProficiencyModelPopup.ui" line="168" />
@@ -5937,7 +5937,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/BaseSelectPhysicalImage.ui" line="153" />
         <location filename="../gui/DesignerFiles/BaseSelectPhysicalImage.ui" line="155" />
         <source>OK</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseSelectPhysicalImage.ui" line="160" />
@@ -6130,7 +6130,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/activity/BaseWorkProductFeaturePopup.ui" line="40" />
         <location filename="../gui/DesignerFiles/activity/BaseWorkProductFeaturePopup.ui" line="45" />
         <source>OK</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/activity/BaseWorkProductFeaturePopup.ui" line="50" />
@@ -7386,7 +7386,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="585" />
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="600" />
         <source>Auto Detect</source>
-        <translation type="unfinished">自动侦测</translation>
+        <translation type="unfinished">自动检测</translation>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="709" />
@@ -7436,12 +7436,12 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="335" />
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="597" />
         <source>Socks 5</source>
-        <translation type="unfinished">袜子5</translation>
+        <translation type="unfinished">Socks 5</translation>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="619" />
         <source>Show/Hide</source>
-        <translation type="unfinished">显示隐藏</translation>
+        <translation type="unfinished">显示/隐藏</translation>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="621" />
@@ -8681,12 +8681,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3401" />
         <source>Auto Detect</source>
-        <translation type="unfinished">自动侦测</translation>
+        <translation type="unfinished">自动检测</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3406" />
         <source>Socks 5</source>
-        <translation type="unfinished">袜子5</translation>
+        <translation type="unfinished">Socks 5</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3411" />
@@ -8934,7 +8934,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="1088" />
         <source>Show/Hide</source>
-        <translation type="unfinished">显示隐藏</translation>
+        <translation type="unfinished">显示/隐藏</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="1297" />
@@ -12704,7 +12704,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="332" />
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="335" />
         <source>OK</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="342" />
@@ -16248,7 +16248,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Workstation/BaseAuthDialog.ui" line="93" />
         <location filename="../gui/DesignerFiles/Workstation/BaseAuthDialog.ui" line="96" />
         <source>OK</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BaseAuthDialog.ui" line="122" />
@@ -16718,7 +16718,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/BaseCustomImage.ui" line="151" />
         <location filename="../gui/DesignerFiles/BaseCustomImage.ui" line="153" />
         <source>OK</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseCustomImage.ui" line="158" />
@@ -17639,7 +17639,7 @@ Configuration</source>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="4204" />
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="4210" />
         <source>AAA Accounting</source>
-        <translation type="unfinished">AAA会计</translation>
+        <translation type="unfinished">AAA计费</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="3720" />
@@ -18032,7 +18032,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/BaseFileTreeView.ui" line="92" />
         <location filename="../gui/DesignerFiles/BaseFileTreeView.ui" line="94" />
         <source>OK</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseFileTreeView.ui" line="99" />
@@ -18366,7 +18366,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Workspace/BaseGridDlg.ui" line="408" />
         <location filename="../gui/DesignerFiles/Workspace/BaseGridDlg.ui" line="411" />
         <source>OK</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
 </context>
 <context>
@@ -18870,7 +18870,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorPreferencesDlg.ui" line="288" />
         <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorPreferencesDlg.ui" line="291" />
         <source>OK</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorPreferencesDlg.ui" line="298" />
@@ -19528,7 +19528,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserConnectDlg.ui" line="185" />
         <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserConnectDlg.ui" line="187" />
         <source>OK</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserConnectDlg.ui" line="192" />
@@ -19606,7 +19606,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserListenDlg.ui" line="234" />
         <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserListenDlg.ui" line="236" />
         <source>OK</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserListenDlg.ui" line="241" />
@@ -19656,7 +19656,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserOptionsDlg.ui" line="91" />
         <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserOptionsDlg.ui" line="93" />
         <source>OK</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserOptionsDlg.ui" line="98" />
@@ -19697,7 +19697,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/IPC/BaseIPCOptionsDialog.ui" line="79" />
         <location filename="../gui/DesignerFiles/IPC/BaseIPCOptionsDialog.ui" line="82" />
         <source>OK</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IPC/BaseIPCOptionsDialog.ui" line="89" />
@@ -21087,7 +21087,7 @@ Connection&lt;/b&gt;&lt;/p&gt;</source>
         <location filename="../gui/DesignerFiles/BaseSelectPkzFilesDlg.ui" line="137" />
         <location filename="../gui/DesignerFiles/BaseSelectPkzFilesDlg.ui" line="139" />
         <source>OK</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseSelectPkzFilesDlg.ui" line="144" />
@@ -22610,7 +22610,7 @@ Setting&lt;/p&gt;</source>
         <location filename="../gui/DesignerFiles/dialogs/options/BaseUserProfileDialog.ui" line="155" />
         <location filename="../gui/DesignerFiles/dialogs/options/BaseUserProfileDialog.ui" line="158" />
         <source>OK</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/BaseUserProfileDialog.ui" line="171" />
@@ -24850,7 +24850,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Workstation/WorkstationAdvancedMib.ui" line="146" />
         <location filename="../gui/DesignerFiles/Workstation/WorkstationAdvancedMib.ui" line="148" />
         <source>OK</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationAdvancedMib.ui" line="159" />
@@ -25407,7 +25407,7 @@ Send/Receive</source>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationTextEditorOpen.ui" line="114" />
         <location filename="../gui/DesignerFiles/Workstation/WorkstationTextEditorOpen.ui" line="116" />
         <source>OK</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationTextEditorOpen.ui" line="121" />
@@ -28114,7 +28114,7 @@ and all previous settings will be erased.</source>
     <message>
         <location filename="../gui/DeviceConfig/Router/FactoryDefaults.cpp" line="70" />
         <source>OK</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
 </context>
 <context>
@@ -28138,7 +28138,7 @@ and all previous settings will be erased.</source>
         <location filename="../gui/FileTreeView.cpp" line="52" />
         <location filename="../gui/FileTreeView.cpp" line="59" />
         <source>OK</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
     <message>
         <location filename="../gui/FileTreeView.cpp" line="58" />
@@ -28601,7 +28601,7 @@ and all previous settings will be erased.</source>
     <message>
         <location filename="../gui/Workspace/Physical/GeoIconLabel.cpp" line="94" />
         <source>Ok</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
 </context>
 <context>
@@ -28641,7 +28641,7 @@ and all previous settings will be erased.</source>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="4707" />
         <source>Ok</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="686" />
@@ -30867,7 +30867,7 @@ reset activity?</source>
     <message>
         <location filename="../gui/activity/InstructionDialog.cpp" line="832" />
         <source>Ok</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
     <message>
         <location filename="../gui/activity/InstructionDialog.cpp" line="832" />
@@ -30934,7 +30934,7 @@ reset activity?</source>
         <location filename="../gui/DesignerFiles/IoX/IoxProjectNew.ui" line="141" />
         <location filename="../gui/DesignerFiles/IoX/IoxProjectNew.ui" line="144" />
         <source>OK</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IoX/IoxProjectNew.ui" line="151" />
@@ -32367,7 +32367,7 @@ reset activity?</source>
     <message>
         <location filename="../gui/switches/LogicalToolbar.cpp" line="206" />
         <source>Ok</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
     <message>
         <location filename="../gui/switches/LogicalToolbar.cpp" line="349" />
@@ -32509,7 +32509,7 @@ reset activity?</source>
         <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="5647" />
         <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="5659" />
         <source>Ok</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="5591" />
@@ -32900,7 +32900,7 @@ reset activity?</source>
     <message>
         <location filename="../gui/Multiuser/MultiUserConnectDlg.cpp" line="274" />
         <source>OK</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
 </context>
 <context>
@@ -32969,7 +32969,7 @@ reset activity?</source>
     <message>
         <location filename="../gui/MainWindow/netspaceLogin.cpp" line="320" />
         <source>Ok</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
     <message>
         <location filename="../gui/MainWindow/netspaceLogin.cpp" line="330" />
@@ -35824,7 +35824,7 @@ Cable Type: %6</source>
     <message>
         <location filename="../gui/Workspace/Physical/RackView/PhysicalCable.cpp" line="669" />
         <source>Ok</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
 </context>
 <context>
@@ -40606,7 +40606,7 @@ Would you like to use the new version?</source>
     <message>
         <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="155" />
         <source>Vis.</source>
-        <translation type="unfinished">维斯。</translation>
+        <translation type="unfinished">可见性</translation>
     </message>
     <message>
         <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="155" />
@@ -40656,7 +40656,7 @@ Would you like to use the new version?</source>
     <message>
         <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="432" />
         <source> visible events.</source>
-        <translation type="unfinished">可见事件。</translation>
+        <translation type="unfinished">可见事件</translation>
     </message>
     <message>
         <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="682" />
@@ -41094,7 +41094,7 @@ Please wait until it is finished.</source>
         <location filename="../gui/DesignerFiles/Workstation/TftpBrowse.ui" line="76" />
         <location filename="../gui/DesignerFiles/Workstation/TftpBrowse.ui" line="78" />
         <source>OK</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/TftpBrowse.ui" line="83" />
@@ -55180,7 +55180,7 @@ Cable Type: %6</source>
     <message>
         <location filename="../gui/Workspace/Physical/RackView/UnmanagedPhysicalCable.cpp" line="547" />
         <source>Ok</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
 </context>
 <context>
@@ -57527,7 +57527,7 @@ Port</source>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationMIBSet.ui" line="147" />
         <location filename="../gui/DesignerFiles/Workstation/WorkstationMIBSet.ui" line="149" />
         <source>OK</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationMIBSet.ui" line="160" />
@@ -58051,7 +58051,7 @@ Flow information:
         <location filename="../gui/DesignerFiles/Workstation/WorkstationSshClientConfigurationBase.ui" line="137" />
         <location filename="../gui/DesignerFiles/Workstation/WorkstationSshClientConfigurationBase.ui" line="140" />
         <source>OK</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationSshClientConfigurationBase.ui" line="143" />
@@ -58192,7 +58192,7 @@ Flow information:
         <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="140" />
         <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="143" />
         <source>OK</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="157" />
@@ -58614,7 +58614,7 @@ Do you want to save your changes?</source>
         <location filename="../gui/DesignerFiles/Workstation/WorkStationVpnClient.ui" line="62" />
         <location filename="../gui/DesignerFiles/Workstation/WorkStationVpnClient.ui" line="64" />
         <source>OK</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkStationVpnClient.ui" line="49" />
@@ -58730,7 +58730,7 @@ and all previous settings will be erased.</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationWebBrowser.cpp" line="1976" />
         <source>OK</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationWebBrowser.cpp" line="2014" />
@@ -58787,7 +58787,7 @@ and all previous settings will be erased.</source>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationWebBrowserBase.ui" line="212" />
         <source>&gt;</source>
-        <translation type="unfinished">&amp;gt;</translation>
+        <translation type="unfinished">&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationWebBrowserBase.ui" line="222" />
@@ -58801,7 +58801,7 @@ and all previous settings will be erased.</source>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationWebBrowserBase.ui" line="266" />
         <location filename="../gui/DesignerFiles/Workstation/WorkstationWebBrowserBase.ui" line="269" />
         <source>Go</source>
-        <translation type="unfinished">去</translation>
+        <translation type="unfinished">打开</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationWebBrowserBase.ui" line="291" />
@@ -59212,7 +59212,7 @@ You can select multiple tags by selecting/unselecting individual table cells.</s
         <location filename="../gui/DesignerFiles/DevicePortTreeView.ui" line="97" />
         <location filename="../gui/DesignerFiles/DevicePortTreeView.ui" line="100" />
         <source>OK</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/DevicePortTreeView.ui" line="107" />
@@ -59232,7 +59232,7 @@ You can select multiple tags by selecting/unselecting individual table cells.</s
     <message>
         <location filename="../gui/DeviceConfig/DialogManager.cpp" line="196" />
         <source>Ok</source>
-        <translation type="unfinished">好的</translation>
+        <translation type="unfinished">确定</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/DialogManager.cpp" line="197" />
@@ -59394,7 +59394,7 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../engine/IPC/CIpcManager.cpp" line="235" />
         <source>Cannot launch the %1 ExApp because publisher of this ExApp is in the Untrusted Publishers list. If you want to enable this ExApp, please go to Options-&gt;Preferences and remove the publisher.</source>
-        <translation type="unfinished">无法启动 %1 ExApp，因为此 ExApp 的发布者位于不受信任的发布者列表中。如果您想启用此 ExApp，请转到“选项”-&amp;gt;“首选项”并删除发布者。</translation>
+        <translation type="unfinished">无法启动 %1 ExApp，因为此 ExApp 的发布者位于不受信任的发布者列表中。如果您想启用此 ExApp，请转到“选项”-&gt;“首选项”并删除发布者。</translation>
     </message>
     <message>
         <location filename="../engine/IPC/CIpcManager.cpp" line="293" />
@@ -59513,7 +59513,7 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="56" />
         <source>&amp;Edit</source>
-        <translation type="unfinished">＆编辑</translation>
+        <translation type="unfinished">编辑</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="72" />
@@ -59528,7 +59528,7 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="90" />
         <source>&amp;Align</source>
-        <translation type="unfinished">＆对齐</translation>
+        <translation type="unfinished">对齐</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="125" />
@@ -59558,7 +59558,7 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="218" />
         <source>&amp;Open...</source>
-        <translation type="unfinished">＆打开...</translation>
+        <translation type="unfinished">打开...</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="221" />
@@ -59568,7 +59568,7 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="230" />
         <source>&amp;Save</source>
-        <translation type="unfinished">＆保存</translation>
+        <translation type="unfinished">保存</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="233" />
@@ -59593,7 +59593,7 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="259" />
         <source>&amp;Redo</source>
-        <translation type="unfinished">＆重做</translation>
+        <translation type="unfinished">重做</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="262" />
@@ -59613,7 +59613,7 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="283" />
         <source>&amp;Copy</source>
-        <translation type="unfinished">＆复制</translation>
+        <translation type="unfinished">复制</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="286" />
@@ -59623,7 +59623,7 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="295" />
         <source>&amp;Paste</source>
-        <translation type="unfinished">＆粘贴</translation>
+        <translation type="unfinished">粘贴</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Common/htmleditor.ui" line="298" />
