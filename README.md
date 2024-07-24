@@ -22,7 +22,7 @@ Cisco Packet Tracer 汉化
 
 1. 打开 `访达`，右上角 `搜索栏`，搜索 `Cisco`，点击进入蓝色 `Cisco Packet Tracer x.x.x` 文件夹，双指同时点击触摸板（右键单击） `Cisco Packet Tracer x.x.x` 图标，点击弹出菜单中 `显示包内容`，点击 `Contents` 文件夹，点击 `LANGUAGES` 文件夹（理论文件夹路径如图所示），粘贴 `chinese.8.2.1.ptl`
 
-   ![mac](img\mac.png)
+   ![mac](https://github.com/zryyyy/Cisco-Packet-Tracer-Chinese/blob/main/img/mac.png)
 
 2. 打开 Cisco pt 程序，点击右上角 Cisco Packet Tracer，点击 `preferences`，弹出窗口中下拉滚动条，在 `select language` 区块点击选择 `Chinese 8.2.1.ptl`，点击右下角的 `change language`，在弹出窗口中点击 `OK`。重启 Cisco Packet Tracer，即可进入简体界面
 
