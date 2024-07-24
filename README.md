@@ -18,7 +18,7 @@ Cisco Packet Tracer 汉化
 
 ##### MacOS
 
-感谢 [sgzkk](sgzkk@qq.com) 提供的详细步骤（以 MacOS 10.15.7 为例）
+感谢 [sgzkk](mailto:sgzkk@qq.com) 提供的详细步骤（以 MacOS 10.15.7 为例）
 
 1. 打开 `访达`，右上角 `搜索栏`，搜索 `Cisco`，点击进入蓝色 `Cisco Packet Tracer x.x.x` 文件夹，双指同时点击触摸板（右键单击） `Cisco Packet Tracer x.x.x` 图标，点击弹出菜单中 `显示包内容`，点击 `Contents` 文件夹，点击 `LANGUAGES` 文件夹（理论文件夹路径如图所示），粘贴 `chinese.8.2.1.ptl`
 
