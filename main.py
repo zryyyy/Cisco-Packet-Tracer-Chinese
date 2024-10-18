@@ -19,4 +19,4 @@ for children in tree.iter():
         children.text = str(temp)  # type: ignore
 
 print("翻译完成，正在生成文件")
-tree.write('chinese.8.2.1.ts', encoding='UTF-8')
+tree.write('chinese.8.2.2.ts', encoding='UTF-8')
